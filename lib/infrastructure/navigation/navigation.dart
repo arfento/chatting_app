@@ -51,5 +51,15 @@ class Nav {
       page: () => const ChatScreenScreen(),
       binding: ChatScreenControllerBinding(),
     ),
+    // GetPage(
+    //   name: Routes.MESSAGE_SCREEN,
+    //   page: () => const MessageScreenScreen(),
+    //   // binding: MessageScreenControllerBinding(),
+    // ),
+    // GetPage(
+    //   name: Routes.USERS_SCREEN,
+    //   page: () => const UsersScreenScreen(),
+    //   // binding: UsersScreenControllerBinding(),
+    // ),
   ];
 }

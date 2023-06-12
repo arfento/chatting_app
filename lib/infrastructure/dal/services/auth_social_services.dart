@@ -35,7 +35,5 @@ class AuthSocialServices implements AuthSocialInterface {
       Get.back();
       Get.offAllNamed(Routes.HOME);
     });
-
-    // return userAuth.user!;
   }
 }
